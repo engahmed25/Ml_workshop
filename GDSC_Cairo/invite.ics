@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220911T100000Z
+DTEND:20220911T101000Z
+DTSTAMP:20220910T135559Z
+ORGANIZER;CN=miraeha2@gmail.com:mailto:miraeha2@gmail.com
+UID:vrqqatpsborfacb4auitjl3l2k@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=miraeha2@gmail.com;X-NUM-GUESTS=0:mailto:miraeha2@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=eng.ahmed.abdelmoneim.1@gmail.com;X-NUM-GUESTS=0:mailto:eng.ahmed.abdel
+ moneim.1@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/uuy-huff-uns
+X-MICROSOFT-CDO-OWNERAPPTID:1735589162
+CREATED:20220910T135557Z
+DESCRIPTION:Event Name: Machine Learning member interview\n\nLocation: This
+  is a Google Meet web conference.\nYou can join this meeting from your comp
+ uter\, tablet\, or smartphone.\nhttps://calendly.com/events/82080625-7bb9-4
+ c31-87ae-eff68d9c077a/google_meet\n\nNeed to make changes to this event?\nC
+ ancel: https://calendly.com/cancellations/8a2a6636-e01d-4363-bbb3-8d8c38298
+ a07\nReschedule: https://calendly.com/reschedulings/8a2a6636-e01d-4363-bbb3
+ -8d8c38298a07\n\nPowered by Calendly.com\n\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Googl
+ e Meet: https://meet.google.com/uuy-huff-uns\n\nView your event at https://
+ calendar.google.com/calendar/event?action=VIEW&eid=dnJxcWF0cHNib3JmYWNiNGF1
+ aXRqbDNsMmsgZW5nLmFobWVkLmFiZGVsbW9uZWltLjFAbQ&tok=MTgjbWlyYWVoYTJAZ21haWwu
+ Y29tMzcxOGRmMDMwZTJiZDFiZTc2YTEzZDkzYWZkNTA0NjUyMmFmMjI2Mw&ctz=Africa%2FCai
+ ro&hl=en&es=1.\n\nDo not edit this section of the description.\n-::~:~::~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::
+ -
+LAST-MODIFIED:20220910T135557Z
+LOCATION:Google Meet (instructions in description)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ahmed Abdelmoneim and Mira Ehab
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
